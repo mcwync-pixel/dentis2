@@ -37,7 +37,7 @@ export default function Intro() {
               A full range of dental care, under one roof
             </h2>
             <p className="mt-5 text-lg leading-relaxed text-slate-600">
-              At Collaroy Dental your health is our priority. We offer a full range of General Dental, Cosmetic and Orthodontic services so you and your family can receive the care you deserve in one familiar, friendly place.
+              At Aura Dental your health is our priority. We offer a full range of General Dental, Cosmetic and Orthodontic services so you and your family can receive the care you deserve in one familiar, friendly place.
             </p>
             <ul className="mt-8 space-y-4">
               {POINTS.map((p) => (

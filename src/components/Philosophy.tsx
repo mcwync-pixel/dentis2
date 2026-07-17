@@ -69,7 +69,7 @@ export default function Philosophy() {
             <span className="h-10 w-10 rounded-full bg-gradient-to-br from-teal-300 to-brand-400" />
             <span>
               <span className="block font-semibold text-white">Sarah M.</span>
-              Collaroy Plateau
+              Green Valley
             </span>
           </figcaption>
         </figure>

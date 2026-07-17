@@ -27,19 +27,19 @@ export default function Hero() {
             Local dentists with a difference
           </span>
           <h1 className="mt-6 font-display text-4xl font-semibold leading-[1.08] text-white sm:text-5xl lg:text-6xl animate-fade-up">
-            Gentle, lifelong dental care on the Northern Beaches
+            Gentle, lifelong dental care in Green Valley
           </h1>
           <p className="mt-6 max-w-xl text-lg leading-relaxed text-white/85 animate-fade-up [animation-delay:120ms]">
-            Collaroy Dental is proudly setting a new standard in patient comfort and care, with a focus on building lifelong relationships with you and your family.
+            Aura Dental is proudly setting a new standard in patient comfort and care, with a focus on building lifelong relationships with you and your family.
           </p>
           <div className="mt-9 flex flex-wrap items-center gap-4 animate-fade-up [animation-delay:220ms]">
             <a href="#contact" className="btn-primary">
               <Calendar className="h-4 w-4" />
               Book an Appointment
             </a>
-            <a href="tel:0282527555" className="btn-ghost">
+            <a href="tel:0255550199" className="btn-ghost">
               <Phone className="h-4 w-4" />
-              (02) 8252 7555
+              (02) 5555 0199
             </a>
           </div>
         </div>

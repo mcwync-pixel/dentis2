@@ -1,13 +1,13 @@
 import { CheckCircle2, GraduationCap, HeartHandshake } from 'lucide-react';
 
 const SCHOOLS = [
-  'Collaroy Plateau Public School',
-  'St Rose Catholic Primary School',
-  'Wheeler Heights Public School',
-  'Little Diggers Preschool',
-  'Collaroy Plateau Early Learning Centre',
-  'MindChamps Early Learning Centre',
-  'Kids Club Child Care Northern Beaches',
+  'Green Valley Public School',
+  'St. Jude Primary School',
+  'Riverdale Heights Public School',
+  'Happy Days Preschool',
+  'Green Valley Early Learning Centre',
+  'Sunshine Early Learning Centre',
+  'Metro Kids Child Care',
 ];
 
 export default function Community() {

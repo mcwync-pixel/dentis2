@@ -19,7 +19,7 @@ export default function Contact() {
       <div className="container-px">
         <div className="mx-auto max-w-2xl text-center">
           <span className="eyebrow">Book your visit</span>
-          <h2 className="section-title mt-3">Get in touch with Collaroy Dental</h2>
+          <h2 className="section-title mt-3">Get in touch with Aura Dental</h2>
           <p className="mt-5 text-lg leading-relaxed text-slate-600">
             Ready to experience dentistry with a difference? Send us a message or call the clinic and our friendly team will help you book the right appointment.
           </p>
@@ -80,7 +80,7 @@ export default function Contact() {
               <ul className="mt-6 space-y-5 text-sm">
                 <li className="flex items-start gap-3">
                   <Phone className="mt-0.5 h-5 w-5 flex-none text-teal-300" />
-                  <a href="tel:0282527555" className="text-white/90 hover:text-white">(02) 8252 7555</a>
+                  <a href="tel:0255550199" className="text-white/90 hover:text-white">(02) 5555 0199</a>
                 </li>
                 <li className="flex items-start gap-3">
                   <Mail className="mt-0.5 h-5 w-5 flex-none text-teal-300" />
@@ -89,12 +89,12 @@ export default function Contact() {
                 <li className="flex items-start gap-3">
                   <MapPin className="mt-0.5 h-5 w-5 flex-none text-teal-300" />
                   <span className="text-white/90">
-                    71 Veterans Parade<br />Collaroy Plateau, NSW 2097
+                    123 Wellness Way<br />Green Valley, NSW 2000
                   </span>
                 </li>
                 <li className="flex items-start gap-3">
                   <Calendar className="mt-0.5 h-5 w-5 flex-none text-teal-300" />
-                  <span className="text-white/90">Servicing Collaroy, Wheeler Heights, Cromer, Narrabeen, Dee Why & the Northern Beaches</span>
+                  <span className="text-white/90">Servicing Green Valley, Oakwood, Riverdale, Kingswood & the surrounding Metro Area</span>
                 </li>
               </ul>
             </div>
